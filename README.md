@@ -29,6 +29,13 @@ FinBotX is an AI-powered financial assistant that provides intelligent investmen
 
 ---
 
+## Prerequisites
+
+-Node.js and npm
+-MongoDB instance (local or cloud)
+-Gemini API Key
+
+---
 ## Architecture Overview
 
 ```plaintext
